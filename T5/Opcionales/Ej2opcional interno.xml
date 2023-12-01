@@ -1,0 +1,17 @@
+<!DOCTYPE resume [
+    <!ELEMENT resume (school)>
+    <!ELEMENT school (name,degree,year)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT degree (#PCDATA)>
+    <!ELEMENT year (#PCDATA)>
+]>
+
+
+<resume>
+    <school>
+        <name>Austin Community College</name>
+        <degree>Associates of Applied Science</degree>
+        <year>1988</year>
+     </school>
+</resume>
+  

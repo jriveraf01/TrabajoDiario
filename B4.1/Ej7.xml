@@ -1,0 +1,59 @@
+<Tabla>
+
+    <columna1>
+        
+        <Nombre>
+        
+            <subcolumna1>Gofres Belgas</subcolumna1>
+            <subcolumna2>Gofres Belgas con fresas</subcolumna2>
+            <subcolumna3>Gofre Belgas con frutas del bosque</subcolumna3>
+            <subcolumna4>Tostada Francesa</subcolumna4>
+            <subcolumna5>Desayuno de la casa</subcolumna5>
+        
+        </Nombre>
+
+    </columna1>
+    
+    <columna2>
+
+        <Precio>
+
+            <subcolumna1>5.95</subcolumna1>
+            <subcolumna2>7.95</subcolumna2>
+            <subcolumna3>8.95</subcolumna3>
+            <subcolumna4>4.50</subcolumna4>
+            <subcolumna5>6.95</subcolumna5>
+
+        </Precio>
+
+    </columna2>
+
+    <columna3>
+
+        <Descripcion>
+        
+            <subcolumna1>Dos de nuestros famosos Gofres belgas con abundante sirope</subcolumna1>
+            <subcolumna2>Ligeros gofres belgas cubiertos de fresas y nata montada</subcolumna2>
+            <subcolumna3>Ligeros gofres belgas cubiertos con frutas del bosque y nata montada</subcolumna3>
+            <subcolumna4>Dos gruesas rebanadas de nuestro pan francés casero</subcolumna4>
+            <subcolumna5>Dos huevos, bacon o salchicha, tostada y patatas fritas</subcolumna5>
+
+        </Descripcion>
+
+    </columna3>
+
+    <columna4>
+
+        <Calorías>
+        
+            <subcolumna1>650</subcolumna1>
+            <subcolumna2>900</subcolumna2>
+            <subcolumna3>900</subcolumna3>
+            <subcolumna4>600</subcolumna4>
+            <subcolumna5>950</subcolumna5>
+
+        </Calorías>
+
+    </columna4>
+
+</Tabla>

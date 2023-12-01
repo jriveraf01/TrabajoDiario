@@ -1,0 +1,22 @@
+<email>
+    <destinatarios>
+      <destinatario>Nombre del destinatario</destinatario>
+      <cc>Nombre del destinatario de copia</cc>
+      <cco>Nombre del destinatario de copia oculta</cco>
+    </destinatarios>
+    <remitente>Nombre del remitente</remitente>
+    <asunto>Asunto del email</asunto>
+    <texto>Contenido del email</texto>
+    <adjuntos>
+      <adjunto>
+        <nombre>Nombre del archivo</nombre>
+        <tamanio>Tamaño del archivo en KB</tamanio>
+        <extension>Extensión del archivo</extension>
+      </adjunto>
+      <adjunto>
+        <nombre>Nombre del archivo</nombre>
+        <tamano>Tamaño del archivo en KB</tamano>
+        <extension>Extensión del archivo</extension>
+      </adjunto>
+    </adjuntos>
+  </email>

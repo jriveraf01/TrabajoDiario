@@ -1,0 +1,9 @@
+<!DOCTYPE lista_personas SYSTEM "Ej2.dtd">
+
+<lista_personas>
+  <persona>
+    <nombre>Antonio moreno</nombre>
+    <fecha_nacimiento>Antonio moreno</fecha_nacimiento>
+    <sexo>Varon</sexo>
+  </persona>
+</lista_personas>

@@ -1,0 +1,5 @@
+<!ELEMENT resume (school)>
+<!ELEMENT school (name,degree,year)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT degree (#PCDATA)>
+<!ELEMENT year (#PCDATA)>

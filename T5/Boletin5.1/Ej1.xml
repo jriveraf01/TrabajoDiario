@@ -1,0 +1,8 @@
+<!DOCTYPE mensaje SYSTEM "Ej1.dtd">
+
+<mensaje>
+	<para>manuel@gmail.com</para>
+	<de>joaquin</de>
+	<titulo>esto es una prueba</titulo>
+	<contenido>Este es el contenido</contenido>
+</mensaje>

@@ -1,0 +1,175 @@
+<FACTURA_n999>
+
+    <Datos_EMPRESA>
+        
+        <Caja1>
+      
+            <datos>
+
+                Equipos Digitales S.L.
+                Av. Valladolid
+                Madrid 28015
+                C.I.F.: Q-9876543
+                teléfono:91.777.66.88
+                fax: 91.777.66.99
+
+            </datos>
+
+        </Caja1>
+
+        <Caja2>
+
+            <datos>
+
+                Fecha: 12-01-2005
+                Pedido nº731
+                Forma de pago: EFECTIVO
+
+            </datos>
+
+        </Caja2>
+
+    </Datos_EMPRESA>
+    
+    <Datos_CLIENTE>
+
+        <datos>
+
+          nº cliente: 879
+          Nombre: Darío Bueno Gutiérrez
+          Dirección de envío: Av. Oporto nº7 4ºd
+          Población: Madrid
+          cod. postal: 28043
+          Provincia: Madrid
+            
+        </datos>
+
+    </Datos_CLIENTE>
+
+    <Datos_FACTURA>
+
+        <Tabla>
+        
+            <columna1>
+        
+                <REF.>
+                
+                    <subcolumna1>MII93000F/8</subcolumna1>
+                    <subcolumna2>MB8QDIP4</subcolumna2>
+                    <subcolumna3>MEDD512M32</subcolumna3>
+                    <subcolumna4>HD250GSA7</subcolumna4>
+                            
+                </REF.>
+        
+            </columna1>
+            
+            <columna2>
+        
+                <DESCRIPCIÓN>
+                
+                    <subcolumna1>MICRO PENTIUM IV 3000MHZ FB800</subcolumna1>
+                    <subcolumna2>PLACA BASE QDI P4</subcolumna2>
+                    <subcolumna3>DIMM DDR 512MB 3200</subcolumna3>
+                    <subcolumna4>DISCO DURO 250GB S-ATA 7200</subcolumna4>
+                            
+                </DESCRIPCIÓN>
+        
+            </columna2>
+        
+            <columna3>
+        
+                <CANT.>
+                
+                    <subcolumna1>1</subcolumna1>
+                    <subcolumna2>1</subcolumna2>
+                    <subcolumna3>2</subcolumna3>
+                    <subcolumna4>4</subcolumna4>
+                               
+                </CANT.>
+        
+            </columna3>
+        
+            <columna4>
+        
+                <PRECIO.>
+                
+                    <subcolumna1>230 eur.</subcolumna1>
+                    <subcolumna2>180 eur.</subcolumna2>
+                    <subcolumna3>40 eur.</subcolumna3>
+                    <subcolumna4>120 eur.</subcolumna4>
+                    
+                </PRECIO.>
+        
+            </columna4>
+            
+            <columna5>
+            
+                <I.V.A.>
+                
+                    <subcolumna1>16,0</subcolumna1>
+                    <subcolumna2>16,0</subcolumna2>
+                    <subcolumna3>16,0</subcolumna3>
+                    <subcolumna4>16,0</subcolumna4>
+                   
+                </I.V.A.>
+        
+            </columna5>
+        
+            <columna6>
+               
+                <IMPORTE>
+                
+                    <subcolumna1>266,80 eur.</subcolumna1>
+                    <subcolumna2>208,80 eur.</subcolumna2>
+                    <subcolumna3>92,80 eur.</subcolumna3>
+                    <subcolumna4>556,80 eur.</subcolumna4>
+                   
+                </IMPORTE>
+        
+            </columna6>
+        
+        </Tabla>
+
+        <Tabla2>
+
+            <columna1>
+        
+                <Base_inponible>
+                
+                    <subcolumna1>970,00 eur.</subcolumna1>
+                            
+                </Base_inponible>
+        
+            </columna1>
+            
+            <columna2>
+        
+                <I.V.A.>
+                
+                    <subcolumna1>16,0</subcolumna1>
+                            
+                </I.V.A.>
+        
+            </columna2>
+        
+            <columna3>
+        
+                <Cuota_I.V.A.>
+                
+                    <subcolumna1>155,20 eur.</subcolumna1>
+                    
+                </Cuota_I.V.A.>
+        
+            </columna3>
+
+            <TOTAL>
+
+                TOTAL FACTURA: 1125,20 eur
+
+            </TOTAL>
+
+        </Tabla2>
+
+    </Datos_FACTURA>
+
+</FACTURA_n999>

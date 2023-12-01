@@ -1,0 +1,56 @@
+<Datos>
+    <Acer_monspessulanum>
+
+        <nombre_común>Arce de Montpellier, Arce menor</nombre_común>
+        <vegetación>Caducifolio</vegetación>
+        <altura>6-10 metros</altura>
+        <forma>Copa esférica</forma>
+        <estructura>Tronco principal recto con bifurcaciones. Ramaje colgante</estructura>
+        <color_en_primavera>Haz verde brillante, envés verde blanquecino</color_en_primavera>
+        <resistencia_a_las_heladas>Heladas fuertes (hasta -15ºC)</resistencia_a_las_heladas>
+    
+    </Acer_monspessulanum>
+
+    <Olea_europea>
+
+        <nombre_común>Olivo</nombre_común>
+        <vegetación>Perenne</vegetación>
+        <altura>8-15 metros</altura>
+        <forma>Copa irregular</forma>
+        <estructura>Tronco principal irregular con bifurcaciones.</estructura>
+    
+    </Olea_europea>
+
+    <Ramaje_tortuoso>
+     
+        <color_en_primavera>Haz verde oscuro, envés verde plateado</color_en_primavera>
+        <resistencia_a_las_heladas>Heladas medias (hasta -10ºC)</resistencia_a_las_heladas>
+    
+    </Ramaje_tortuoso>
+    
+    <Platanus_orientalis>
+      
+      <nombre_común>Platano</nombre_común>
+      <vegetación>Caducifolio</vegetación>
+      <altura>20-25 metros</altura>
+      <forma>Copa ovoidal</forma>
+      <estructura>Tronco principal recto. Ramaje expandido</estructura>
+      <color_en_primavera>Haz verde medio, enves verde claro</color_en_primavera>
+      <color_en_otoño>Ocre</color_en_otoño>
+      <resistencia_a_las_heladas>Heladas fuertes (hasta -20ºC)</resistencia_a_las_heladas>
+    
+    </Platanus_orientalis>
+    
+    <Quercus_ilex>
+
+      <nombre_común>Encina</nombre_común>
+      <vegetación>Perenne</vegetación>
+      <altura>25 metros o más</altura>
+      <forma>Copa esférica o elíptica irregular</forma>
+      <estructura>Tronco principal recto. Ramaje tortuoso</estructura>
+      <color_en_primavera>Plateado en hojas jóvenes. En hojas antiguas, haz verde oscuro, envés plateado</color_en_primavera>
+      <resistencia_a_las_heladas>Heladas fuertes (hasta -15ºC)</resistencia_a_las_heladas>
+    
+    </Quercus_ilex>
+  
+</Datos>

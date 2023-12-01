@@ -1,0 +1,17 @@
+<!DOCTYPE socios SYSTEM "Ej3.dtd">
+
+<socios>
+  <socio>
+    <nombre>Ana</nombre>
+    <edad>21</edad>
+  </socio>
+  <socio>
+    <numero>598</numero>
+    <nombre>iker</nombre>
+    <edad>19</edad>
+  </socio>
+  <socio>
+    <clave>3rffwe</clave>
+    <nombre>iker</nombre>
+  </socio>
+</socios>

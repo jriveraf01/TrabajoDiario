@@ -1,0 +1,82 @@
+{
+    "FACTURA_n999": {
+      "Datos_EMPRESA": {
+        "Caja1": {
+          "datos": "Equipos Digitales S.L.\nAv. Valladolid\nMadrid 28015\nC.I.F.: Q-9876543\nteléfono:91.777.66.88\nfax: 91.777.66.99"
+        }
+      },
+      "Datos_CLIENTE": {
+        "datos": "nº cliente: 879\nNombre: Darío Bueno Gutiérrez\nDirección de envío: Av. Oporto nº7 4ºd\nPoblación: Madrid\ncod. postal: 28043\nProvincia: Madrid"
+      },
+      "Datos_FACTURA": {
+        "Tabla": {
+          "columna1": {
+            "REF.": {
+              "subcolumna1": "MII93000F/8",
+              "subcolumna2": "MB8QDIP4",
+              "subcolumna3": "MEDD512M32",
+              "subcolumna4": "HD250GSA7"
+            }
+          },
+          "columna2": {
+            "DESCRIPCIÓN": {
+              "subcolumna1": "MICRO PENTIUM IV 3000MHZ FB800",
+              "subcolumna2": "PLACA BASE QDI P4",
+              "subcolumna3": "DIMM DDR 512MB 3200",
+              "subcolumna4": "DISCO DURO 250GB S-ATA 7200"
+            }
+          },
+          "columna3": {
+            "CANT.": {
+              "subcolumna1": "1",
+              "subcolumna2": "1",
+              "subcolumna3": "2",
+              "subcolumna4": "4"
+            }
+          },
+          "columna4": {
+            "PRECIO.": {
+              "subcolumna1": "230 eur.",
+              "subcolumna2": "180 eur.",
+              "subcolumna3": "40 eur.",
+              "subcolumna4": "120 eur."
+            }
+          },
+          "columna5": {
+            "I.V.A.": {
+              "subcolumna1": "16,0",
+              "subcolumna2": "16,0",
+              "subcolumna3": "16,0",
+              "subcolumna4": "16,0"
+            }
+          },
+          "columna6": {
+            "IMPORTE": {
+              "subcolumna1": "266,80 eur.",
+              "subcolumna2": "208,80 eur.",
+              "subcolumna3": "92,80 eur.",
+              "subcolumna4": "556,80 eur."
+            }
+          }
+        },
+        "Tabla2": {
+          "columna1": {
+            "Base_inponible": {
+              "subcolumna1": "970,00 eur."
+            }
+          },
+          "columna2": {
+            "I.V.A.": {
+              "subcolumna1": "16,0"
+            }
+          },
+          "columna3": {
+            "Cuota_I.V.A.": {
+              "subcolumna1": "155,20 eur."
+            }
+          },
+          "TOTAL": "TOTAL FACTURA: 1125,20 eur"
+        }
+      }
+    }
+  }

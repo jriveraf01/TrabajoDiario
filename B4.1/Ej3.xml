@@ -1,0 +1,23 @@
+<FichaPersonal>
+    <InformacionPersonal>
+      <Nombre>Jordán</Nombre>
+      <Genero>Masculino</Genero>
+      <FechaDeNacimiento>03-10-2003</FechaDeNacimiento>
+      <Nacionalidad>España</Nacionalidad>
+    </InformacionPersonal>
+  
+    <InformacionDeContacto>
+      <Direccion>Calle Laurel nº11 2ºJ</Direccion>
+      <Ciudad>Zafra</Ciudad>
+      <CodigoPostal>06300</CodigoPostal>
+      <Telefono>646003895</Telefono>
+      <CorreoElectronico>jriveraf01@suarezdefigueroa.es</CorreoElectronico>
+    </InformacionDeContacto>
+
+    <Estudios>
+      <Titulo>Grado medio en Instalaciones en Telecomunicaciones</Titulo>
+      <Lugar>Santiago Ápostol</Lugar>
+      <anoinicio>2020</anoinicio>
+    </Estudios>
+  </FichaPersonal>
+  

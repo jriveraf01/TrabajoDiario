@@ -1,0 +1,12 @@
+<pedido>
+    <cliente>Juan Delgado Martínez</cliente>
+    <bicicleta>
+      <marca>A2023</marca>
+      <fecha>19-5-2000</fecha>
+      <direccion>
+        <calle>Barco 4</calle>
+        <numero>3</numero>
+        <letra>A</letra>
+      </direccion>
+    </bicicleta>
+  </pedido>

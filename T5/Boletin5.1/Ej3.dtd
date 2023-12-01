@@ -1,0 +1,6 @@
+<!ELEMENT socios (socio)+>
+<!ELEMENT socio (nombre,edad,numero,clave)*>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT edad (#PCDATA)>
+<!ELEMENT numero (#PCDATA)>
+<!ELEMENT clave (#PCDATA)>

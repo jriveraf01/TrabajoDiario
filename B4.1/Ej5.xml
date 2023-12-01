@@ -1,0 +1,93 @@
+<CDs_EN_OFERTA>
+
+    <columna1>
+        
+        <Título>
+        
+        <subcolumna1>Still got the blues</subcolumna1>
+        <subcolumna2>One night only</subcolumna2>
+        <subcolumna3>When a man loves a woman</subcolumna3>
+        <subcolumna4>Big Willie style</subcolumna4>
+        <subcolumna5>La canción de Juan Perro</subcolumna5>
+        <subcolumna6>The dock of the bay</subcolumna6>
+
+        </Título>
+
+    </columna1>
+    
+    <columna2>
+
+        <Artista>
+
+            <subcolumna1>Gary Moore</subcolumna1>
+            <subcolumna2>Bee Gees</subcolumna2>
+            <subcolumna3>Percy Sledge</subcolumna3>
+            <subcolumna4>Will Smith</subcolumna4>
+            <subcolumna5>Radio Futura</subcolumna5>
+            <subcolumna6>Otis Redding</subcolumna6>
+
+        </Artista>
+
+    </columna2>
+
+    <columna3>
+
+        <País>
+        
+            <subcolumna1>UK</subcolumna1>
+            <subcolumna2>UK</subcolumna2>
+            <subcolumna3>USA</subcolumna3>
+            <subcolumna4>USA</subcolumna4>
+            <subcolumna5>España</subcolumna5>
+            <subcolumna6>USA</subcolumna6> 
+
+        </País>
+
+    </columna3>
+
+    <columna4>
+
+        <Compañía_discográfica>
+        
+            <subcolumna1>Virgin records</subcolumna1>
+            <subcolumna2>Polydor</subcolumna2>
+            <subcolumna3>Atlantic</subcolumna3>
+            <subcolumna4>Columbia</subcolumna4>
+            <subcolumna5>Sony Music-Ariola</subcolumna5>
+            <subcolumna6>Atlantic</subcolumna6> 
+
+        </Compañía_discográfica>
+
+    </columna4>
+    
+    <columna5>
+    
+        <Precio>
+
+            <subcolumna1>10.20</subcolumna1>
+            <subcolumna2>10.90</subcolumna2>
+            <subcolumna3>8.70</subcolumna3>
+            <subcolumna4>9.90</subcolumna4>
+            <subcolumna5>9.90</subcolumna5>
+            <subcolumna6>7.90</subcolumna6> 
+
+        </Precio>
+
+    </columna5>
+
+    <columna6>
+       
+        <Año_de_publicación>
+        
+            <subcolumna1>1990</subcolumna1>
+            <subcolumna2>1998</subcolumna2>
+            <subcolumna3>1987</subcolumna3>
+            <subcolumna4>1997</subcolumna4>
+            <subcolumna5>1987</subcolumna5>
+            <subcolumna6>1987</subcolumna6> 
+
+        </Año_de_publicación>
+
+    </columna6>
+
+</CDs_EN_OFERTA>

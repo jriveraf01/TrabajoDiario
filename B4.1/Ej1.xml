@@ -1,0 +1,29 @@
+<Factura>
+    <Número></Número>
+    
+    <Fecha></Fecha>
+    
+    <Nombre_del_cliente>
+        <Nombre></Nombre>
+        <Apellidos></Apellidos>
+    </Nombre_del_cliente>
+
+    <Dirección_del_cliente>
+        <Calle></Calle>
+        <Ciudad></Ciudad>
+        <País></País>
+        <Código_postal></Código_postal>
+    </Dirección_del_cliente>
+
+    <Productos>
+        <Papel></Papel>
+        <Lápices></Lápices>
+        <Goma_de_borrar></Goma_de_borrar>
+    </Productos>
+
+    <Base></Base>
+
+    <Iva-total></Iva-total>
+
+    <Total></Total>
+</Factura>

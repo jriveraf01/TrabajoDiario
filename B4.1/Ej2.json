@@ -1,0 +1,25 @@
+{
+    "Factura": {
+      "Número": null,
+      "Fecha": null,
+      "Nombre_del_cliente": {
+        "Nombre": null,
+        "Apellidos": null
+      },
+      "Dirección_del_cliente": {
+        "Calle": null,
+        "Ciudad": null,
+        "País": null,
+        "Código_postal": null
+      },
+      "Productos": {
+        "Papel": null,
+        "Lápices": null,
+        "Goma_de_borrar": null
+      },
+      "Base": null,
+      "Iva-total": null,
+      "Total": null
+    }
+  }
+  
